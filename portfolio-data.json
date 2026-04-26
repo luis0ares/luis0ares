@@ -1,0 +1,252 @@
+{
+  "profile": {
+    "firstName": "Luis Eduardo",
+    "lastName": "M. Soares",
+    "fullName": "Luis Eduardo M. Soares",
+    "title": "Software Engineer",
+    "location": "Brazil",
+    "timezone": "GMT−3",
+    "availability": "Available for new opportunities",
+    "heroTagline": "6 years turning complex problems into elegant, scalable systems - Python, healthcare interoperability and applied AI. Backend-first, full-stack when it matters."
+  },
+  "contact": {
+    "email": "luisedu.soares@outlook.com",
+    "whatsapp": "+55 34 99907 4112",
+    "github": "https://github.com/luis0ares",
+    "linkedin": "https://www.linkedin.com/in/luis0ares/"
+  },
+  "about": {
+    "paragraphs": [
+      "I'm a Software Engineer with a strong focus on backend development - with 6 years of experience shipping production systems, from data pipelines and clinical applications to full-stack products used by real communities. When the product needs it, I move across the stack to keep the experience coherent from infrastructure to interface.",
+      "The last few years have been remote, distributed and async - collaborating across time zones and cultures. Currently pursuing an MBA in Software Engineering with AI, deepening my work with RAG systems, agents and applied AI. Startup environments suit me best: fast-moving, idea-driven, focused on building things that matter.",
+      "Outside the editor: MMORPGs, music, and travel - pursuits that keep reminding me how exploration and persistence shape both personal growth and good engineering."
+    ],
+    "facts": [
+      {
+        "label": "Currently",
+        "value": "Software Engineer @ Dynaccurate"
+      },
+      {
+        "label": "Focus",
+        "value": "Python · FastAPI · Microservices"
+      },
+      {
+        "label": "Based in",
+        "value": "Uberlândia, Brazil"
+      },
+      {
+        "label": "Working",
+        "value": "Remote · Distributed teams"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Dynaccurate SARL",
+      "period": "2021 - Present",
+      "location": "Remote · Luxembourg",
+      "description": "Key contributor to MDIP - an EU-funded medication interoperability project enabling cross-border lookup of ~1M medicines across Europe, UK, Canada and the USA. Engineered large-scale terminology mapping pipelines (DM+D, SNOMED CT, ICD-10) processing millions of operations daily, and architected an Electronic Patient Record (EPR) system with intelligent clinical coding and oncology workflows. Achieved 100% release automation via Azure DevOps and Kubernetes.",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Kubernetes",
+        "Azure DevOps",
+        "OpenAI"
+      ]
+    },
+    {
+      "role": "Backend Developer",
+      "company": "Wiretrack",
+      "period": "2020 - 2021",
+      "location": "Remote · Brazil",
+      "description": "Early-stage startup building e-commerce integrations between Omie and Shopify - automated synchronization of orders, products and financial data. First production exposure to async programming and Kubernetes at scale.",
+      "stack": [
+        "Python",
+        "Async",
+        "Kubernetes",
+        "Shopify API",
+        "Omie"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "applika",
+      "name": "Applika.dev",
+      "tagline": "Job application intelligence · 100+ active users",
+      "description": "Open-source platform for job seekers who want clarity and data in their search - track applications, follow hiring pipelines and surface real conversion analytics. Already in active use by 100+ developers.",
+      "longDescription": "My flagship open-source project, where I'm the main maintainer. Applika centralizes the chaos of job hunting into a single dashboard: track every application, log interview rounds, attach notes, and surface meaningful conversion metrics. Built to be self-hostable, contributor-friendly, and battle-tested with 100+ active users in a real developer community.",
+      "status": "Production",
+      "year": "2024",
+      "tech": [
+        "FastAPI",
+        "SQLAlchemy",
+        "Alembic",
+        "Next.js 15",
+        "OAuth",
+        "JWT",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "repo": "https://github.com/ProgramadoresSemPatria/application_panel",
+      "live": "https://applika.dev/",
+      "preview": "https://applika.dev/",
+      "highlights": [
+        "100+ active users in a live developer community",
+        "Main maintainer of the open-source codebase",
+        "Multi-tenant auth with OAuth + JWT rotation",
+        "Kanban + analytics views over the same source of truth"
+      ]
+    },
+    {
+      "slug": "poke-rag",
+      "name": "Poke RAG",
+      "tagline": "Agentic advisor for Pokémon FireRed",
+      "description": "An Agentic RAG system that acts as an AI advisor specialized in Pokémon FireRed (Gen3, GBA).",
+      "longDescription": "A playful but rigorous experiment in agentic retrieval. Poke RAG ingests game lore, movesets, and walkthroughs into a vector store and answers strategic questions through a tool-using agent over WebSocket streams.",
+      "status": "Experiment",
+      "year": "2024",
+      "tech": [
+        "Langchain",
+        "ChromaDB",
+        "OpenAI",
+        "Agentic RAG",
+        "FastAPI",
+        "WebSocket"
+      ],
+      "repo": "https://github.com/luis0ares/poke-rag",
+      "live": "https://pokerag.luis0ares.com/",
+      "preview": "https://pokerag.luis0ares.com/",
+      "highlights": [
+        "Tool-using agent with retrieval grounding",
+        "Streaming responses over WebSocket",
+        "Custom embeddings tuned for game lore"
+      ]
+    },
+    {
+      "slug": "nowshare",
+      "name": "NowShare",
+      "tagline": "Modern knowledge sharing",
+      "description": "A platform that enables communities to create, share, and discuss content efficiently.",
+      "longDescription": "NowShare blends GraphQL ergonomics with REST simplicity to power community knowledge bases. Strawberry serves a typed GraphQL layer; SQLAlchemy + Alembic keep the data model honest across rapid iteration.",
+      "status": "Production",
+      "year": "2024",
+      "tech": [
+        "REST",
+        "GraphQL",
+        "FastAPI",
+        "Strawberry",
+        "SQLAlchemy",
+        "Alembic",
+        "Next.js 15",
+        "Docker"
+      ],
+      "repo": "https://github.com/luis0ares/nowshare",
+      "live": "https://nowshare.luis0ares.com/",
+      "preview": "https://nowshare.luis0ares.com/",
+      "highlights": [
+        "Typed GraphQL schema with Strawberry",
+        "Hybrid REST + GraphQL public API",
+        "CI/CD via GitHub Actions to production"
+      ]
+    },
+    {
+      "slug": "trello-ai",
+      "name": "Trello AI",
+      "tagline": "Task planning, augmented",
+      "description": "A modern Trello-inspired task manager enhanced with AI for smart planning and breakdown.",
+      "longDescription": "Trello AI takes a single goal and decomposes it into sequenced tasks, dependencies, and effort estimates - all live-collaborative through WebSockets and grounded by an OpenAI planning loop.",
+      "status": "Demo",
+      "year": "2024",
+      "tech": [
+        "REST",
+        "WebSocket",
+        "FastAPI",
+        "SQLAlchemy",
+        "OpenAI",
+        "Next.js 15",
+        "Docker"
+      ],
+      "repo": "https://github.com/luis0ares/trello-ai",
+      "live": "https://trelloai.luis0ares.com/",
+      "preview": "https://trelloai.luis0ares.com/",
+      "highlights": [
+        "AI-driven task decomposition pipeline",
+        "Realtime board sync over WebSocket",
+        "Optimistic UI with server reconciliation"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "label": "Backend",
+      "items": [
+        "Python",
+        "FastAPI",
+        "Strawberry",
+        "Flask",
+        "SQLAlchemy",
+        "Alembic",
+        "Pytest",
+        "Celery"
+      ]
+    },
+    {
+      "label": "Frontend",
+      "items": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "label": "Data & AI",
+      "items": [
+        "PostgreSQL",
+        "Redis",
+        "OpenAI",
+        "GraphQL",
+        "REST",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "label": "Platform",
+      "items": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Azure DevOps",
+        "GitHub Actions",
+        "OAuth 2.0"
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/luis0ares"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/luis0ares/"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:luisedu.soares@outlook.com"
+    },
+    {
+      "label": "WhatsApp",
+      "href": "https://wa.me/+5534999074112"
+    }
+  ],
+  "footer": {
+    "copyrightName": "Luis Eduardo M. Soares",
+    "tagline": "Crafted with care",
+    "builtWith": "Built with React · TanStack Start · Lovable"
+  }
+}
