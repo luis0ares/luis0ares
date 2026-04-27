@@ -2,10 +2,7 @@
 
 # Luis Eduardo Soares
 
-**Full-Stack Engineer · Python · Healthcare & Interoperability**
-
-[![Portfolio](https://img.shields.io/badge/luis0ares.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://luis0ares.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis0ares/)
+**Backend Engineer · Python · FastAPI · Distributed Systems**
 
 </div>
 
@@ -13,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer with **6 years of experience** building production systems — from data pipelines and clinical applications to full-stack products used by real communities.
+Backend engineer with **6 years of production experience** across data pipelines, distributed systems, and healthcare interoperability. I build things that process millions of operations daily and stay up.
 
-Backend engineering is where I thrive, but I'm comfortable across the full stack when the product calls for it. I enjoy startup environments where ideas ship fast and every line of code has a purpose.
+Comfortable across the full stack when needed, but my best work happens at the service layer — clean APIs, reliable pipelines, and systems that scale without drama.
 
-Currently pursuing an **MBA in Software Engineering with AI**, deepening my expertise in RAG systems, agents, and applied AI.
+Currently pursuing an **MBA in Software Engineering with AI**, focusing on RAG systems and applied AI.
 
 ---
 
@@ -26,33 +23,29 @@ Currently pursuing an **MBA in Software Engineering with AI**, deepening my expe
 ### Dynaccurate SARL — Software Engineer
 **Luxembourg · March 2021 – Present**
 
-Working on clinical applications focused on healthcare data interoperability and AI. Most of my work lives at the intersection of data engineering, distributed systems, and medical standards.
+Healthcare data interoperability platform. Work lives at the intersection of distributed systems, medical standards, and clinical AI.
 
-- Key contributor to the **[MDIP](https://mdip.eu)** (Medications Data Interoperability Project), an EU-funded initiative enabling cross-border lookup of ~1M medicines and their equivalents across Europe, UK, Canada, and the USA
-- Engineered large-scale terminology mapping pipelines between medical vocabularies (DM+D, SNOMED CT, ICD-10), processing millions of mapping operations daily
-- Architecting and developing an **Electronic Patient Record (EPR)** system with intelligent clinical coding support and oncology workflows
-- Automated CI/CD pipelines with Azure DevOps and Kubernetes, achieving 100% release automation
-- Built asynchronous data processing architectures handling heavy harmonization workloads
-
----
+- Core contributor to **[MDIP](https://mdip.eu)**, an EU-funded initiative enabling cross-border medicine lookup across 5 countries (~1M medicines)
+- Engineered terminology mapping pipelines between medical vocabularies (DM+D, SNOMED CT, ICD-10) processing millions of operations daily
+- Architecting an **Electronic Patient Record (EPR)** system with intelligent clinical coding and oncology workflows
 
 ### Wiretrack — Backend Developer
-**Brazil · September 2020 – March 2021**
+**Brazil · Sep 2020 – Mar 2021**
 
-Early-stage startup building e-commerce integrations between **Omie and Shopify** — automated synchronization of orders, products, and financial data. First contact with async programming and Kubernetes in a production environment.
+E-commerce integrations between Omie and Shopify — async pipelines, order sync, Kubernetes in production.
 
 ---
 
 ## 🚀 Projects
 
 ### [Applika.dev](https://applika.dev) — Main Maintainer
-Open-source job application tracker built for job seekers who want clarity and data in their search. Track applications, follow hiring pipelines, and see real conversion analytics. Already in active use within a developer community.
+Open-source job application tracker — hiring pipelines, conversion analytics, active developer community.
 
 ### [Trello AI](https://luis0ares.com/#trello-ai)
-Trello-inspired task manager with an AI-powered chat where users generate and organize tasks from conversation context — built with WebSockets and OpenAI.
+Task manager with AI-powered chat for task generation from conversation context. Built with WebSockets and OpenAI.
 
 ### [Poke RAG](https://luis0ares.com/#poke-rag)
-Agentic RAG system that works as an AI advisor specialized in Pokémon FireRed. A hands-on experiment with LangChain, ChromaDB, and agent-based retrieval.
+Agentic RAG advisor specialized in Pokémon FireRed. Hands-on experiment with LangChain, ChromaDB, and agent-based retrieval.
 
 ---
 
@@ -72,7 +65,3 @@ Agentic RAG system that works as an AI advisor specialized in Pokémon FireRed. 
 ## 🌍 Languages
 
 **English** - Proficient &nbsp;|&nbsp; **Portuguese** - Native
-
----
-
-🔗 See more at **[luis0ares.com](https://luis0ares.com)**
