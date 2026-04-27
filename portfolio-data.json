@@ -79,7 +79,7 @@
       "description": "Open-source platform for job seekers who want clarity and data in their search - track applications, follow hiring pipelines and surface real conversion analytics. Already in active use by 100+ developers.",
       "longDescription": "My flagship open-source project, where I'm the main maintainer. Applika centralizes the chaos of job hunting into a single dashboard: track every application, log interview rounds, attach notes, and surface meaningful conversion metrics. Built to be self-hostable, contributor-friendly, and battle-tested with 100+ active users in a real developer community.",
       "status": "Production",
-      "year": "2024",
+      "year": "2026",
       "tech": [
         "FastAPI",
         "SQLAlchemy",
@@ -107,7 +107,7 @@
       "description": "An Agentic RAG system that acts as an AI advisor specialized in Pokémon FireRed (Gen3, GBA).",
       "longDescription": "A playful but rigorous experiment in agentic retrieval. Poke RAG ingests game lore, movesets, and walkthroughs into a vector store and answers strategic questions through a tool-using agent over WebSocket streams.",
       "status": "Experiment",
-      "year": "2024",
+      "year": "2026",
       "tech": [
         "Langchain",
         "ChromaDB",
@@ -131,8 +131,8 @@
       "tagline": "Modern knowledge sharing",
       "description": "A platform that enables communities to create, share, and discuss content efficiently.",
       "longDescription": "NowShare blends GraphQL ergonomics with REST simplicity to power community knowledge bases. Strawberry serves a typed GraphQL layer; SQLAlchemy + Alembic keep the data model honest across rapid iteration.",
-      "status": "Production",
-      "year": "2024",
+      "status": "Demo",
+      "year": "2025",
       "tech": [
         "REST",
         "GraphQL",
@@ -159,7 +159,7 @@
       "description": "A modern Trello-inspired task manager enhanced with AI for smart planning and breakdown.",
       "longDescription": "Trello AI takes a single goal and decomposes it into sequenced tasks, dependencies, and effort estimates - all live-collaborative through WebSockets and grounded by an OpenAI planning loop.",
       "status": "Demo",
-      "year": "2024",
+      "year": "2025",
       "tech": [
         "REST",
         "WebSocket",
